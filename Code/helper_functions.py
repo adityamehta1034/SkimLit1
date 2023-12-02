@@ -1,5 +1,5 @@
-### We create a bunch of helpful functions throughout the course.
-### Storing them here so they're easily accessible.
+### Writing some helper functions so which makes our analysis easier
+
 
 import tensorflow as tf
 
