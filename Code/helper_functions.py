@@ -245,7 +245,6 @@ def unzip_data(filename):
   zip_ref.close()
 
 # Walk through an image classification directory and find out how many files (images)
-# are in each subdirectory.
 import os
 
 def walk_through_dir(dir_path):
